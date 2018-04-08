@@ -1,4 +1,4 @@
-# WordPress API Plugin Boiler
+# WordPress API Plugin Boilerplate
 
 A OOP plugin template for API plugins
 
