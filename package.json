@@ -1,0 +1,31 @@
+{
+	"name": "api--plugin-boilerplate",
+	"title": "API Plugin Boilerplate",
+	"author": "Sean Blakeley <sean@seanblakeley.co.uk>",
+	"version": "0.1.3",
+	"license": "See Licence file",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SeanBlakeley/WordPress-API-Plugin-Boilerplate"
+	},
+	"homepage": "https://github.com/SeanBlakeley/WordPress-API-Plugin-Boilerplate",
+	"main": "gulpfile.js",
+	"devDependencies": {
+		"del": "^2.2.0",
+		"gulp": "^3.9.1",
+		"gulp-autoprefixer": "^3.1.0",
+		"gulp-cache": "^0.1.2",
+		"gulp-concat": "^2.6.0",
+		"gulp-csslint": "^1.0.0",
+		"gulp-imagemin": "^3.0.1",
+		"gulp-inject-version": "^1.0.1",
+		"gulp-jslint": "^1.0.1",
+		"gulp-livereload": "^3.8.1",
+		"gulp-clean-css": "^2.3.2",
+		"gulp-notify": "^2.2.0",
+		"gulp-rename": "^1.2.2",
+		"gulp-ruby-sass": "^2.0.6",
+		"gulp-sourcemaps": "^1.6.0",
+		"gulp-uglify": "^2.0.0"
+	}
+}
